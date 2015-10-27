@@ -1,6 +1,6 @@
 {
   "name": "ReactiveCocoa",
-  "version": "2.5",
+  "version": "2.5-vend",
   "summary": "A framework for composing and transforming streams of values.",
   "homepage": "https://github.com/blog/1107-reactivecocoa-is-now-open-source",
   "authors": {
